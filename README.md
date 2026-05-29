@@ -23,4 +23,4 @@ hackerrank-solutions/
 - Track my coding journey
 - Learn multiple programming languages
 
-More solutions will be added regularly. (Only doing java programs currently).
+More solutions will be added regularly.
