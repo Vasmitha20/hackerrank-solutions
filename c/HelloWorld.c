@@ -4,7 +4,7 @@
 #include <stdlib.h>
 int main() {
     char s[100];
-    scanf("%[^\n]%*c", &s);
+    scanf("%[^\n]%*c", s); // read entire line and throw away Enter key
     printf("Hello, World!\n%s", s);
     return 0;
 }
